@@ -5,6 +5,7 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
+        "jacopo/laravel-authentication-acl": "1.2.*",
 		"laravel/framework": "4.2.*"
 	},
 	"autoload": {
